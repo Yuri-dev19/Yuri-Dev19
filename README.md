@@ -1,99 +1,136 @@
-# 👋 Olá, eu sou [Yuri Machado]
+# README para GitHub — Desenvolvedor Full Stack
 
-## 💻 Desenvolvedor Full Stack
+Você pode copiar e colar este conteúdo no seu `README.md`:
 
-Sou um Desenvolvedor Full Stack em formação pelo SENAI, apaixonado por tecnologia, desenvolvimento de software e criação de soluções inovadoras. Tenho experiência no desenvolvimento de aplicações web, atuando tanto no Front-end quanto no Back-end.
+```md
+# 👨‍💻 Olá, eu sou [Seu Nome]
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Desenvolvedor+Full+Stack;Angular+%7C+Node.js+%7C+SQL;Apaixonado+por+Tecnologia+e+Inovação" alt="Typing SVG" />
 
-## 🚀 Tecnologias e Competências
+## 🚀 Sobre Mim
 
-### 🎨 Front-end
+Sou Desenvolvedor Full Stack apaixonado por tecnologia, desenvolvimento web e soluções inovadoras. Tenho experiência no desenvolvimento de aplicações modernas utilizando Angular, Node.js, JavaScript, HTML, CSS e bancos de dados SQL.
 
-<img src="https://skillicons.dev/icons?i=html,css,js,angular" />
-
-### ⚙️ Back-end
-
-<img src="https://skillicons.dev/icons?i=nodejs" />
-
-### 🗄️ Banco de Dados
-
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-
-### 🔧 Ferramentas e Metodologias
-
-<img src="https://skillicons.dev/icons?i=git,github" />
-
-<br>
-
-![Scrum](https://img.shields.io/badge/Scrum-009FDA?style=for-the-badge&logo=scrumalliance&logoColor=white)
-![Modelagem de Dados](https://img.shields.io/badge/Modelagem_de_Dados-4CAF50?style=for-the-badge)
-
-### 🌟 Especialidades
-
-- Desenvolvimento Front-end
-- Desenvolvimento Back-end
-- Desenvolvimento Full Stack
+<img src="https://cdn-icons-png.flaticon.com/512/2721/2721291.png" width="300">
 
 ---
 
-## 📚 Formação
+## 🛠️ Tecnologias e Ferramentas
 
-🎓 **Serviço Nacional de Aprendizagem Industrial (SENAI)**
+<div align="center">
 
-### Competências Desenvolvidas
+<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,nodejs,angular,git,github,mysql,vscode" />
 
-- HTML
-- CSS
-- JavaScript
-- Angular
-- Node.js
-- SQL
-- MongoDB
-- Git
-- GitHub
-- Modelagem de Dados
-- Scrum
-- Desenvolvimento Front-end
-- Desenvolvimento Back-end
-- Desenvolvimento Full Stack
-- Kanban
+</div>
 
 ---
 
-## 📈 Objetivos
+## 📊 Estatísticas GitHub
 
-- Aprimorar minhas habilidades como Desenvolvedor Full Stack.
-- Desenvolver aplicações modernas e escaláveis.
-- Contribuir para projetos open source.
-- Evoluir constantemente na área de tecnologia.
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight"/>
+
+</div>
 
 ---
 
-## 📫 Contato
+## 💼 Competências
 
-<p align="left">
-  <a href="www.linkedin.com/in/yuri-m-b8b581402">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="50" />
-  </a>
-  
-  <a href="yuri36206@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" width="50" />
-  </a>
-  
-  <a href="https://github.com/">
-    <img src="https://skillicons.dev/icons?i=github" width="50" />
-  </a>
+| Tecnologia | Nível |
+|------------|--------|
+| 🌐 HTML5 | ██████████ 100% |
+| 🎨 CSS3 | █████████░ 90% |
+| ⚡ JavaScript | █████████░ 90% |
+| 🅰️ Angular | ████████░░ 80% |
+| 🟢 Node.js | ████████░░ 80% |
+| 🗄️ SQL | ████████░░ 80% |
+| 🔧 Git & GitHub | █████████░ 90% |
+
+---
+
+## 📚 Atualmente Estudando
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=angular,nodejs,mongodb,docker,aws" />
+
+</div>
+
+- Arquitetura de Software
+- APIs REST
+- Docker
+- Cloud Computing
+- Banco de Dados Avançado
+
+---
+
+## 📂 Projetos em Destaque
+
+### 🏭 Sistema de Gestão Industrial
+Sistema desenvolvido com Angular e Node.js para monitoramento de produção industrial.
+
+<img src="https://images.unsplash.com/photo-1565043589221-1a6fd9ae45c7?w=800" width="500">
+
+---
+
+### 📦 Controle de Estoque
+Aplicação Full Stack para gerenciamento de estoque com autenticação e banco de dados SQL.
+
+<img src="https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?w=800" width="500">
+
+---
+
+### 📈 Dashboard de Indicadores
+Dashboard para visualização de métricas e KPIs empresariais.
+
+<img src="https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=800" width="500">
+
+---
+
+## 🌎 Contato
+
+<div align="center">
+
+<a href="https://github.com/SEU_USUARIO">
+<img src="https://skillicons.dev/icons?i=github" width="60"/>
+</a>
+
+<a href="https://linkedin.com/in/SEU_LINKEDIN">
+<img src="https://skillicons.dev/icons?i=linkedin" width="60"/>
+</a>
+
+<a href="mailto:SEU_EMAIL">
+<img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="60"/>
+</a>
+
+</div>
+
+📧 Email: SEU_EMAIL
+
+💼 LinkedIn: linkedin.com/in/SEU_LINKEDIN
+
+🐙 GitHub: github.com/SEU_USUARIO
+
+---
+
+## 👀 Visitantes
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&label=Visualizações&color=0e75b6&style=for-the-badge" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+<div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=seuusuario&show_icons=true)
+### ⭐ Obrigado por visitar meu perfil!
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seuusuario&layout=compact)
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300">
 
----
+</div>
+```
 
-⭐ Obrigado por visitar meu perfil!
+Se você me passar seu **nome**, **GitHub**, **LinkedIn** e **e-mail**, posso personalizar o README completo e deixá-lo com um visual profissional para recrutadores.
