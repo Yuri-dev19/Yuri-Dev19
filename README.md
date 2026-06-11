@@ -9,27 +9,28 @@ Sou um Desenvolvedor Full Stack em formação pelo SENAI, apaixonado por tecnolo
 ## 🚀 Tecnologias e Competências
 
 ### 🎨 Front-end
-- HTML5
-- CSS3
-- JavaScript
-- Angular
+
+<img src="https://skillicons.dev/icons?i=html,css,js,angular" />
 
 ### ⚙️ Back-end
-- Node.js
-- Desenvolvimento de APIs
-- Desenvolvimento Back-end
+
+<img src="https://skillicons.dev/icons?i=nodejs" />
 
 ### 🗄️ Banco de Dados
-- SQL
-- MongoDB
-- Modelagem de Dados
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 
 ### 🔧 Ferramentas e Metodologias
-- Git
-- GitHub
-- Scrum
+
+<img src="https://skillicons.dev/icons?i=git,github" />
+
+<br>
+
+![Scrum](https://img.shields.io/badge/Scrum-009FDA?style=for-the-badge&logo=scrumalliance&logoColor=white)
+![Modelagem de Dados](https://img.shields.io/badge/Modelagem_de_Dados-4CAF50?style=for-the-badge)
 
 ### 🌟 Especialidades
+
 - Desenvolvimento Front-end
 - Desenvolvimento Back-end
 - Desenvolvimento Full Stack
@@ -40,13 +41,13 @@ Sou um Desenvolvedor Full Stack em formação pelo SENAI, apaixonado por tecnolo
 
 🎓 **Serviço Nacional de Aprendizagem Industrial (SENAI)**
 
-Cursos e competências desenvolvidas:
+### Competências Desenvolvidas
 
 - HTML
 - CSS
 - JavaScript
-- Node.js
 - Angular
+- Node.js
 - SQL
 - MongoDB
 - Git
@@ -63,18 +64,35 @@ Cursos e competências desenvolvidas:
 ## 📈 Objetivos
 
 - Aprimorar minhas habilidades como Desenvolvedor Full Stack.
-- Contribuir para projetos de código aberto.
-- Desenvolver soluções modernas, eficientes e escaláveis.
-- Evoluir constantemente no universo da tecnologia.
+- Desenvolver aplicações modernas e escaláveis.
+- Contribuir para projetos open source.
+- Evoluir constantemente na área de tecnologia.
 
 ---
 
 ## 📫 Contato
 
-📧 Email: yuri36206@gmail.com
-💼 LinkedIn: www.linkedin.com/in/yuri-m-b8b581402
+<p align="left">
+  <a href="www.linkedin.com/in/yuri-m-b8b581402">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="50" />
+  </a>
+  
+  <a href="yuri36206@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="50" />
+  </a>
+  
+  <a href="https://github.com/">
+    <img src="https://skillicons.dev/icons?i=github" width="50" />
+  </a>
+</p>
 
-🐙 GitHub: github.com/seuusuario
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=seuusuario&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seuusuario&layout=compact)
 
 ---
 
